@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<MadCapLog Protocol="2" Description="MadCap Flare 2025 Generated HTML5.fltar" Date="2025-05-09T08:08:24.1263780-07:00">
+<MadCapLog Protocol="2" Description="MadCap Flare 2025 Generated HTML5.fltar" Date="2025-05-09T09:59:40.6375157-07:00">
     <Messages>Compiling target HTML5...
 WARNING: Please note that you are using a trial version. The generated output will contain scrambled content.
 Removing previously generated content...
@@ -40,9 +40,6 @@ Generating output skins...
 Generating synonyms file...
 Generating alias file...
 Generating final TOC...
-Missing file link for TOC entry with System.LinkedTitle variable
-Missing file link for TOC entry with System.LinkedTitle variable
-Missing file link for TOC entry with System.LinkedTitle variable
 Generating language strings...
 Generating concept and keyword anchors in output files...
 Generating Index...
@@ -61,16 +58,13 @@ Generated Skins\Default\Stylesheets\Topic.micro-content.css
 Generated Default.htm
 Saving result set...
 Ignored Compiler Warnings: 4
-Output generated in 17 second(s).
+Output generated in 23 second(s).
 
 Done
 Saving log to "C:\Users\alexm\OneDrive\Desktop\Best Cloud Security Practices\Output\alexm\HTML5\HTML5.mclog"
 </Messages>
     <Warnings>
         <LogEntry Message="WARNING: Please note that you are using a trial version. The generated output will contain scrambled content.&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="Compiler" Target="HTML5" ErrorID="10068" />
-        <LogEntry File="../../../Project/TOCs/TOC.fltoc" Message="Missing file link for TOC entry with System.LinkedTitle variable&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="TOC" Target="HTML5" ErrorID="10147" />
-        <LogEntry File="../../../Project/TOCs/TOC.fltoc" Message="Missing file link for TOC entry with System.LinkedTitle variable&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="TOC" Target="HTML5" ErrorID="10147" />
-        <LogEntry File="../../../Project/TOCs/TOC.fltoc" Message="Missing file link for TOC entry with System.LinkedTitle variable&#xA;" LineIndex="-1" CharIndex="-1" Subsystem="TOC" Target="HTML5" ErrorID="10147" />
     </Warnings>
     <Errors />
 </MadCapLog>
