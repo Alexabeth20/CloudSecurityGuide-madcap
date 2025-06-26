@@ -1,21 +1,21 @@
 # Cloud Security Guide – MadCap Project
 
-This repository contains the authored source files and output screenshots from the **Beginner's Guide to Securing Cloud Workloads** documentation project, built using **MadCap Flare 2025** and hosted in a Windows VM via VMware Fusion on macOS.
+This repository contains the source files and output screenshots from the **Beginner's Guide to Securing Cloud Workloads** documentation project, built using **MadCap Flare 2025** and hosted in a Windows VM via VMware Fusion on macOS.
 
 ---
 
-## 📘 About the Project
+## About the Project
 
-This project simulates internal documentation a technical writer or cloud security engineer might create for onboarding junior developers. It provides a walkthrough of cloud workload security best practices with actionable steps, validations, and compliance guidance.
+This project demonstrates internal documentation a technical writer or cloud security engineer might create for onboarding junior developers. It provides a walkthrough of cloud workload security best practices with actionable steps, validations, and compliance guidance.
 
-* 🛠 Authoring Tool: MadCap Flare 2025
-* 🖥 Built in: Windows 11 ARM VM (via VMware Fusion on Mac)
-* 📁 Output Type: HTML5 Help Site (scrambled due to trial limitations)
-* 🔐 Scope: U.S. Privacy, GDPR, IAM, Network Security, Encryption, Monitoring
+* Authoring Tool: MadCap Flare 2025
+* Built in: Windows 11 ARM VM (via VMware Fusion on Mac)
+* Output Type: HTML5 Help Site (scrambled due to trial limitations)
+* Scope: U.S. Privacy, GDPR, IAM, Network Security, Encryption, Monitoring
 
 ---
 
-## 📂 Repo Structure
+## Repo Structure
 
 ```
 cloud-security-guide-madcap/
@@ -36,7 +36,7 @@ cloud-security-guide-madcap/
 
 ---
 
-## 🖼 Screenshots
+## Screenshots
 
 Proof that this project was authored in **MadCap Flare**:
 
@@ -49,7 +49,7 @@ Proof that this project was authored in **MadCap Flare**:
 
 ---
 
-## 🧪 Limitations
+## Limitations
 
 Due to MadCap’s trial restrictions, the output HTML is scrambled and **not suitable for live hosting**. This repo is provided to:
 
@@ -59,26 +59,26 @@ Due to MadCap’s trial restrictions, the output HTML is scrambled and **not sui
 
 ---
 
-## 🔗 Related Links
+## Related Links
 
 * [Project Summary Post](https://alexabeth20.github.io/posts/2025-05-06-Beginners-Cloud-Security-Guide)
 * [MadCap Flare Trial Info](https://www.madcapsoftware.com/products/flare/)
 
 ---
 
-## ✅ Status
+## Status
 
-**✅ Completed** – final output and screenshots uploaded
+** Completed** – final output and screenshots uploaded
 
 ---
 
-## ✍️ Author
+## Author
 
 **Alexandra Mayer**
-[Portfolio Site](https://alexabeth20.github.io/) | [LinkedIn](https://linkedin.com/in/alexabeth20)
+[Portfolio Site](https://alexabeth20.github.io/) | [LinkedIn](https://www.linkedin.com/in/alexandra-mayer-626352354)
 
 ---
 
-## 📄 License
+## License
 
 This repo is intended for demonstration and educational purposes only. All product names, logos, and brands are property of their respective owners.
