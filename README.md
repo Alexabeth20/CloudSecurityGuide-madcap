@@ -36,6 +36,14 @@ cloud-security-guide-madcap/
 
 ---
 
+## Limitations
+
+Due to MadCap’s trial restrictions, the output HTML is scrambled and **not suitable for live hosting**. This repo is provided to:
+
+* Document proof of work
+* Show authoring capability
+* Demonstrate real-world tooling exposure
+
 ## Screenshots
 
 Proof that this project was authored in **MadCap Flare**:
@@ -49,26 +57,10 @@ Proof that this project was authored in **MadCap Flare**:
 
 ---
 
-## Limitations
-
-Due to MadCap’s trial restrictions, the output HTML is scrambled and **not suitable for live hosting**. This repo is provided to:
-
-* Document proof of work
-* Show authoring capability
-* Demonstrate real-world tooling exposure
-
----
-
 ## Related Links
 
 * [Project Summary Post](https://alexabeth20.github.io/posts/2025-05-06-Beginners-Cloud-Security-Guide)
 * [MadCap Flare Trial Info](https://www.madcapsoftware.com/products/flare/)
-
----
-
-## Status
-
-** Completed** – final output and screenshots uploaded
 
 ---
 
